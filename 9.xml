@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>4</id>
+      <name>9</name>
+      <size>3597</size>
+      <mode>interpolation</mode>
+      <overlap>5</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-05-01 20:29:47.870773+03:00</created>
+      <updated>2019-05-01 20:59:48.688693+03:00</updated>
+      <source>9.mp4</source>
+      <labels>
+        <label>
+          <name>polyp</name>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>4</id>
+          <start>0</start>
+          <stop>3596</stop>
+          <url>http://localhost:8080/?id=4</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ryon</username>
+        <email>ryonsabouni@gmail.com</email>
+      </owner>
+      <original_size>
+        <width>1920</width>
+        <height>1080</height>
+      </original_size>
+    </task>
+    <dumped>2019-05-01 21:01:01.562744+03:00</dumped>
+  </meta>
+  <track id="0" label="polyp">
+    <box frame="3230" outside="0" occluded="0" keyframe="1" xtl="819.48" ytl="647.38" xbr="961.59" ybr="763.17">
+    </box>
+    <box frame="3231" outside="0" occluded="0" keyframe="0" xtl="828.56" ytl="635.80" xbr="970.67" ybr="751.59">
+    </box>
+    <box frame="3232" outside="0" occluded="0" keyframe="1" xtl="837.64" ytl="624.22" xbr="979.75" ybr="740.01">
+    </box>
+    <box frame="3233" outside="0" occluded="0" keyframe="0" xtl="848.04" ytl="614.45" xbr="990.14" ybr="730.24">
+    </box>
+    <box frame="3234" outside="0" occluded="0" keyframe="1" xtl="858.43" ytl="604.68" xbr="1000.54" ybr="720.47">
+    </box>
+    <box frame="3235" outside="0" occluded="0" keyframe="0" xtl="862.90" ytl="600.83" xbr="1005.01" ybr="716.62">
+    </box>
+    <box frame="3236" outside="0" occluded="0" keyframe="1" xtl="867.38" ytl="596.98" xbr="1009.48" ybr="712.77">
+    </box>
+    <box frame="3237" outside="0" occluded="0" keyframe="0" xtl="872.18" ytl="591.49" xbr="1014.29" ybr="707.28">
+    </box>
+    <box frame="3238" outside="0" occluded="0" keyframe="1" xtl="876.98" ytl="586.00" xbr="1019.09" ybr="701.79">
+    </box>
+    <box frame="3239" outside="0" occluded="0" keyframe="0" xtl="867.31" ytl="581.82" xbr="1009.42" ybr="697.61">
+    </box>
+    <box frame="3240" outside="0" occluded="0" keyframe="1" xtl="857.64" ytl="577.64" xbr="999.74" ybr="693.43">
+    </box>
+    <box frame="3241" outside="0" occluded="0" keyframe="1" xtl="835.27" ytl="575.01" xbr="977.38" ybr="690.80">
+    </box>
+    <box frame="3242" outside="0" occluded="0" keyframe="1" xtl="826.06" ytl="573.69" xbr="968.16" ybr="689.48">
+    </box>
+    <box frame="3243" outside="0" occluded="0" keyframe="1" xtl="811.59" ytl="573.70" xbr="952.40" ybr="689.48">
+    </box>
+    <box frame="3244" outside="0" occluded="0" keyframe="0" xtl="811.59" ytl="573.70" xbr="952.40" ybr="689.48">
+    </box>
+    <box frame="3245" outside="1" occluded="0" keyframe="1" xtl="811.59" ytl="573.70" xbr="952.40" ybr="689.48">
+    </box>
+  </track>
+  <track id="1" label="polyp">
+    <box frame="3451" outside="0" occluded="0" keyframe="1" xtl="1052.38" ytl="551.32" xbr="1161.59" ybr="651.32">
+    </box>
+    <box frame="3452" outside="0" occluded="0" keyframe="1" xtl="1060.27" ytl="552.64" xbr="1169.48" ybr="652.64">
+    </box>
+    <box frame="3453" outside="0" occluded="0" keyframe="1" xtl="1070.80" ytl="555.27" xbr="1180.01" ybr="655.27">
+    </box>
+    <box frame="3454" outside="0" occluded="0" keyframe="0" xtl="1069.48" ytl="560.54" xbr="1178.69" ybr="660.54">
+    </box>
+    <box frame="3455" outside="0" occluded="0" keyframe="1" xtl="1068.17" ytl="565.80" xbr="1177.38" ybr="665.80">
+    </box>
+    <box frame="3456" outside="0" occluded="0" keyframe="0" xtl="1068.17" ytl="568.43" xbr="1177.38" ybr="668.43">
+    </box>
+    <box frame="3457" outside="0" occluded="0" keyframe="1" xtl="1068.17" ytl="571.06" xbr="1177.38" ybr="671.06">
+    </box>
+    <box frame="3458" outside="0" occluded="0" keyframe="0" xtl="1068.17" ytl="578.96" xbr="1177.38" ybr="678.96">
+    </box>
+    <box frame="3459" outside="0" occluded="0" keyframe="1" xtl="1068.17" ytl="586.85" xbr="1177.38" ybr="686.85">
+    </box>
+    <box frame="3460" outside="0" occluded="0" keyframe="0" xtl="1062.47" ytl="607.91" xbr="1171.68" ybr="707.91">
+    </box>
+    <box frame="3461" outside="0" occluded="0" keyframe="0" xtl="1056.76" ytl="628.96" xbr="1165.98" ybr="728.96">
+    </box>
+    <box frame="3462" outside="0" occluded="0" keyframe="1" xtl="1051.06" ytl="650.01" xbr="1160.27" ybr="750.01">
+    </box>
+    <box frame="3463" outside="0" occluded="0" keyframe="0" xtl="1039.86" ytl="669.09" xbr="1145.14" ybr="767.12">
+    </box>
+    <box frame="3464" outside="0" occluded="0" keyframe="1" xtl="1028.65" ytl="688.16" xbr="1130.01" ybr="784.22">
+    </box>
+    <box frame="3465" outside="0" occluded="0" keyframe="0" xtl="1029.97" ytl="693.87" xbr="1131.33" ybr="789.92">
+    </box>
+    <box frame="3466" outside="0" occluded="0" keyframe="0" xtl="1031.28" ytl="699.57" xbr="1132.64" ybr="795.63">
+    </box>
+    <box frame="3467" outside="0" occluded="0" keyframe="1" xtl="1032.60" ytl="705.27" xbr="1133.96" ybr="801.33">
+    </box>
+    <box frame="3468" outside="1" occluded="0" keyframe="1" xtl="1032.60" ytl="705.27" xbr="1133.96" ybr="801.33">
+    </box>
+    <box frame="3469" outside="1" occluded="0" keyframe="1" xtl="1032.60" ytl="705.27" xbr="1133.96" ybr="801.33">
+    </box>
+  </track>
+  <track id="2" label="polyp">
+    <box frame="3451" outside="0" occluded="0" keyframe="1" xtl="1174.75" ytl="572.38" xbr="1245.80" ybr="664.48">
+    </box>
+    <box frame="3452" outside="0" occluded="0" keyframe="1" xtl="1181.33" ytl="572.38" xbr="1252.38" ybr="664.48">
+    </box>
+    <box frame="3453" outside="0" occluded="0" keyframe="1" xtl="1183.96" ytl="572.38" xbr="1255.01" ybr="664.48">
+    </box>
+    <box frame="3454" outside="0" occluded="0" keyframe="0" xtl="1184.62" ytl="578.30" xbr="1255.67" ybr="670.40">
+    </box>
+    <box frame="3455" outside="0" occluded="0" keyframe="1" xtl="1185.27" ytl="584.22" xbr="1256.33" ybr="676.32">
+    </box>
+    <box frame="3456" outside="0" occluded="0" keyframe="0" xtl="1185.27" ytl="587.51" xbr="1256.33" ybr="679.61">
+    </box>
+    <box frame="3457" outside="0" occluded="0" keyframe="1" xtl="1185.27" ytl="590.80" xbr="1256.33" ybr="682.90">
+    </box>
+    <box frame="3458" outside="0" occluded="0" keyframe="0" xtl="1185.27" ytl="596.06" xbr="1256.33" ybr="688.17">
+    </box>
+    <box frame="3459" outside="0" occluded="0" keyframe="1" xtl="1185.27" ytl="601.33" xbr="1256.33" ybr="693.43">
+    </box>
+    <box frame="3460" outside="0" occluded="0" keyframe="0" xtl="1177.82" ytl="617.12" xbr="1248.87" ybr="709.22">
+    </box>
+    <box frame="3461" outside="0" occluded="0" keyframe="0" xtl="1170.36" ytl="632.90" xbr="1241.41" ybr="725.01">
+    </box>
+    <box frame="3462" outside="0" occluded="0" keyframe="1" xtl="1162.90" ytl="648.69" xbr="1233.96" ybr="740.80">
+    </box>
+    <box frame="3463" outside="0" occluded="0" keyframe="0" xtl="1162.90" ytl="651.32" xbr="1233.96" ybr="743.43">
+    </box>
+    <box frame="3464" outside="1" occluded="0" keyframe="1" xtl="1162.90" ytl="653.96" xbr="1233.96" ybr="746.06">
+    </box>
+  </track>
+</annotations>
